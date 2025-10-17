@@ -23,7 +23,10 @@
   /* Gradients */
   --gradient-hero: linear-gradient(135deg, #FF6B35 0%, #FF8C5C 100%);
   --gradient-cta: linear-gradient(90deg, #FF6B35 0%, #E85A28 100%);
+  --gradient-section: linear-gradient(135deg, #FFF3E0 0%, #FFE0B2 100%);
+  --gradient-card: linear-gradient(135deg, #FFFFFF 0%, #F5F5F5 100%);
   --overlay-dark: linear-gradient(180deg, rgba(26,26,29,0.7) 0%, rgba(26,26,29,0.4) 100%);
+  --overlay-orange: linear-gradient(180deg, rgba(255,107,53,0.1) 0%, rgba(255,107,53,0.05) 100%);
   
   /* Typography */
   --font-heading: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
